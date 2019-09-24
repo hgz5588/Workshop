@@ -1,0 +1,4 @@
+Customer name: Simon Rogers ,Initial balance: -￡45.87
+Wine name: Cheap Malbec ,Wine cost: ￡3.99 ,Wine quantity: 145 ,transaction cost: ￡578.55 ,new balance: ￡532.68
+Wine name: Expensive Chablis ,Wine cost: ￡12.99 ,Wine quantity: 12 ,transaction cost: ￡155.88 ,new balance: ￡688.56
+Wine name: Port ,Wine cost: ￡34.56 ,Wine quantity: 1 ,transaction cost: ￡34.56 ,new balance: ￡723.12

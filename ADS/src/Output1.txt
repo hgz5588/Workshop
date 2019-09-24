@@ -1,0 +1,46 @@
+
+Title - Original ArrayList
+
+Kelvingrove Art Gallery and Museum
+National Museum of Scotland
+Royal Yacht Britannia
+Camera Obscura and World of Illusions
+Morayvia
+Montrose Air Station Heritage Centre
+
+
+
+Title - ArrayList after adding elements
+
+Peterhead Prison Museum
+Wick Heritage Museum
+Kelvingrove Art Gallery and Museum
+National Museum of Scotland
+Royal Yacht Britannia
+Camera Obscura and World of Illusions
+Morayvia
+Montrose Air Station Heritage Centre
+
+
+
+Title - ArrayList after remove operation
+
+Peterhead Prison Museum
+Wick Heritage Museum
+Kelvingrove Art Gallery and Museum
+National Museum of Scotland
+Royal Yacht Britannia
+Morayvia
+Montrose Air Station Heritage Centre
+
+
+
+Title - Final ArrayList
+
+Peterhead Prison Museum
+Wick Heritage Museum
+Kelvingrove Art Gallery and Museum
+National Museum of Scotland
+Morayvia
+Montrose Air Station Heritage Centre
+

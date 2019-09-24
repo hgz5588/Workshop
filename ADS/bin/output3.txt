@@ -1,0 +1,57 @@
+
+This is mbaFruits linkedList using Java LinkedList class: 
+
+Strawberries
+Raspberries
+Blueberries
+Cranberries
+Blackberries
+Apples
+Honeyberries
+Goji Berries
+Wineberries
+Tayberries
+
+
+LinkedList doesn't contain the element 'Gooseberries'
+
+
+
+This is mbaFruits linkedList after adding Gooseberries: 
+[Strawberries, Raspberries, Blueberries, Cranberries, Blackberries, Gooseberries, Apples, Honeyberries, Goji Berries, Wineberries, Tayberries]
+
+
+
+Element not ending with Berries is: Apples
+
+This is mbaFruits linkedList after removing Apples: 
+[Strawberries, Raspberries, Blueberries, Cranberries, Blackberries, Gooseberries, Honeyberries, Goji Berries, Wineberries, Tayberries]
+
+
+
+Array Elements - This is bstFruits linkedList after converting mbaFruits in an array: 
+Strawberries
+Raspberries
+Blueberries
+Cranberries
+Blackberries
+Gooseberries
+Honeyberries
+Goji Berries
+Wineberries
+Tayberries
+
+
+
+
+This is mbaFruits linkedList after sorting in ascending order: 
+[Blackberries, Blueberries, Cranberries, Goji Berries, Gooseberries, Honeyberries, Raspberries, Strawberries, Tayberries, Wineberries]
+
+This is myTree inOrder traversal 
+Blackberries Blueberries Cranberries Goji Berries Gooseberries Honeyberries Raspberries Strawberries Tayberries Wineberries 
+
+This is myTree postOrder traversal 
+Blackberries Goji Berries Honeyberries Gooseberries Cranberries Blueberries Raspberries Tayberries Wineberries Strawberries 
+
+This is myTree preOrder traversal 
+Strawberries Raspberries Blueberries Blackberries Cranberries Gooseberries Goji Berries Honeyberries Wineberries Tayberries 

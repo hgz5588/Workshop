@@ -1,0 +1,51 @@
+mbaSet1: [Artichoke, Beetroot, Cabbage, Carrots, Chicory, Cucumber, Leeks, Parsnip, Purple Sprouting Broccoli, Radishes, Rhubarb, Sorrel, Spring Greens, Spring Onions, Watercress]
+mbaSet2: [Artichoke, Beetroot, Cabbage, Carrots, Chicory, Kale, Morel Mushrooms, New Potatoes, Parsnips, Radishes, Rhubarb, Rocket, Sorrel, Spinach, Spring Greens, Spring Onions, Watercress]
+mbaSet3: [Beetroot, Asparagus, Aubergine, Radishes, Rocket, Marrow, Orange, Watercress, Banana, Lettuce, Pineapple, Chillies, Rhubarb, Spinach, Peppers, Samphire, Spring Onions]
+
+Union of mbaSet1 and mbaSet2
+[Artichoke, Beetroot, Cabbage, Carrots, Chicory, Cucumber, Kale, Leeks, Morel Mushrooms, New Potatoes, Parsnip, Parsnips, Purple Sprouting Broccoli, Radishes, Rhubarb, Rocket, Sorrel, Spinach, Spring Greens, Spring Onions, Watercress]
+
+
+Union of mbaSet2 and mbaSet3
+[Kale, Rocket, Orange, Sorrel, Morel Mushrooms, Lettuce, Spring Greens, Chicory, Pineapple, Cabbage, Rhubarb, Spinach, Chillies, Peppers, Samphire, Beetroot, New Potatoes, Asparagus, Aubergine, Radishes, Watercress, Marrow, Banana, Carrots, Artichoke, Parsnips, Spring Onions]
+
+
+Union of mbaSet2 and mbaSet3 converted into a list called uList: 
+[Kale, Rocket, Orange, Sorrel, Morel Mushrooms, Lettuce, Spring Greens, Chicory, Pineapple, Cabbage, Rhubarb, Spinach, Chillies, Peppers, Samphire, Beetroot, New Potatoes, Asparagus, Aubergine, Radishes, Watercress, Marrow, Banana, Carrots, Artichoke, Parsnips, Spring Onions]
+
+Size of uList = 27
+
+
+Intersection of of mbaSet1, mbaSet2 and mbaSet3 is: 
+[Beetroot, Radishes, Rhubarb, Spring Onions, Watercress]
+
+Difference of the mbaSet1 and mbaSet2
+[Cucumber, Leeks, Parsnip, Purple Sprouting Broccoli]
+
+Size of mbaSet3 = 17
+
+Checking if mbaSet3 Contains banana, pineapple, orange and strawberries
+
+Is banana present in Your_initialsSet3?: true
+Is Pineapple present in Your_initialsSet3?: true
+Is Orange present in Your_initialsSet3?: true
+Is Strawberries present in Your_initialsSet3?: false
+
+****Iterating Set3 after removing the fruits*******
+
+Beetroot
+Asparagus
+Aubergine
+Radishes
+Rocket
+Marrow
+Watercress
+Lettuce
+Chillies
+Rhubarb
+Spinach
+Peppers
+Samphire
+Spring Onions
+
+Size of mbaSet3 is now = 14
